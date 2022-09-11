@@ -1,0 +1,4 @@
+Bread 10 15
+oil 12 134
+Eggs 40 5
+Tea 20 34

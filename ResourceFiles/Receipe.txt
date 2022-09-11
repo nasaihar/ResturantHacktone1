@@ -1,0 +1,4 @@
+Sandwitch 80 Bread 2 eggs 3
+RC1 120 Bread 3 oil 1
+Rc2 130 Tea 2 eggs 3
+RC3 240 Bread 3 oil 1 Eggs 3
